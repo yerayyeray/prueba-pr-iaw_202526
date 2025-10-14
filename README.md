@@ -17,3 +17,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 * [LGV](files/LGV.md)
 * [ARO](files/Aro.md)
+* [PSMR](files/PSMR.md)
