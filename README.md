@@ -17,3 +17,7 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 * [LGV](files/LGV.md)
 * [ASP](files/ASP.md)
+* [ARO](files/Aro.md)
+* [PSMR](files/PSMR.md)
+* [SSN](files/SSN.md)
+* [EDEC](files/EDEC.md)
