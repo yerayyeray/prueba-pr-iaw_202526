@@ -22,3 +22,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [SSN](files/SSN.md)
 * [EDEC](files/EDEC.md)
 * [GCA](files/GCA.md)
+* [SRG](files/SRG.md)
