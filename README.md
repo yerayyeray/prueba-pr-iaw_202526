@@ -4,7 +4,7 @@
 
 Que tienes que hacer:
 
-* Realiza un pull request a este repositorio para solicitar dos cambios:
+* Realiza un pull  request a este repositorio para solicitar dos cambios:
 
     * Debes cambiar el fichero `README.md` para añadir un enlace a la lista, donde ponga tus iniciales y vaya al fichero que vas a crear en el directorio `files`.
     * Crea un  fichero en el directorio `files`, que se llame `tus_iniciales.md` (en mi caso se llama `lmgv.md`) y donde escribas en markdown la respuesta a las siguientes preguntas: **¿Quién eres?, ¿Qué asignatura te gusta más? y ¿por qué?** (se debe utilizar al menos **5 marcas** distintas de *Markdown*).
@@ -26,4 +26,5 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [PLC](files/PLC.md)
 * [DAG](files/DAG.md)
 * [JPP](files/JPP.md)
+* [YGM](files/YGM.md)
 * [ADG](files/ADG.md)
