@@ -1,11 +1,11 @@
 ## ¿Quien eres?
 
-Yeray Gutierrez Mullor
+**Yeray Gutierrez Mullor**
 
 ## ¿Que asignatura te gusta más?
 
-IAW
+> IAW
 
 ## ¿Por qué?
 
-Me gusta
+~~Me gusta~~
